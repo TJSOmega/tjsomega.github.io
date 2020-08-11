@@ -10,3 +10,5 @@ for header 3 and so on...
 Here is a simple list of commands that can be done in Markdown with examples:
 Here is an example of Markdown *Italicizing*
 Here is an example of Markdown **Bolding**
+
+<!--- Didnt get to dive in to much tonight but wrote a couple lines and learned some new stuff! --->
