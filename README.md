@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages
+## The Home of the most Handsome Coder that ever lived!
 
-You can use the [editor on GitHub](https://github.com/TJSOmega/tjsomega.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://hosannacitychurch.org/wp-content/uploads/2019/11/Terrence-Simms-Hosanna-City-Church-CC-1024x1024.jpg)
 
 ### Markdown
+
+**This is what bold text looks like**
+_This is what italic text looks like_
+'This is what Code text looks like'
+
+**Super excited to learn to code with my class and to change my mindset to a growth learning model!**
+
+_Also need to learn how to type correctly_
+
+```markdown
+**And drive out to Seattle to have a beer with Bryan!**
+```
+
+
+
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
