@@ -1,8 +1,8 @@
-## The Home of the most Handsome Coder that ever lived!
+# The Home of the most Handsome Coder that ever lived!
 
 ![image](https://hosannacitychurch.org/wp-content/uploads/2019/11/Terrence-Simms-Hosanna-City-Church-CC-1024x1024.jpg)
 
-### Markdown
+## Markdown
 
 **This is what bold text looks like**
 _This is what italic text looks like_
